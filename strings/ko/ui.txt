@@ -1,0 +1,814 @@
+/accelerate
+가속
+
+/achievements
+도전과제
+
+/achievements_disabled
+no achievements
+
+/achievements_list
+List of achievements you have earned:
+
+/achievements_no_multiplayer
+Can't start this game with disabled achievements!
+
+/achievements_unlocked
+%d 중 %d 개 잠금 해제 됨
+
+/add
+추가
+
+/advanced_mode
+고급 모드
+
+/all_wheel_drive
+모든 바퀴 활성화
+
+/and
+그리고
+
+/anisotropic_hint
+텍스쳐 품질 향상
+
+/apply
+확인
+
+/balance_warning
+Achievements disabled because trucks balance points exceed map balance!
+
+/map_warning
+Achievements disabled because user map is selected
+
+/map_user
+유저 맵
+
+/server_different_map
+Server uses different version of map %s!
+Please sync by manually copying .STG file
+
+/brake
+브레이크
+
+/brightness
+밝기
+
+/calibration_hint
+Adjust brightness and contrast until tire track is barely visible
+
+/camera_controls
+Camera Controls
+
+/cancel
+취소
+
+/change_gear
+기어 변경
+
+/chat_say
+Say:
+
+/choose_truck
+트럭 선택
+
+/continue
+이어 하기
+
+/contrast
+Contrast
+
+/controls
+조작
+
+/controls_exit_prompt
+Controls were modified.
+Do you want to exit without saving?
+
+/controls_reset_prompt
+Reset default controls?
+
+/current
+Current:
+
+/default
+기본값
+
+/defaults
+Defaults
+
+/deformations_hint
+Fallback for older videocards
+Try in case of visual bugs
+
+/dev_garage
+창고
+
+/dev_garage_hint
+Make so that truck is inside garage
+
+/dev_info
+Info
+
+/dev_info_hint
+Show truck dev info, wheels reference positions and suspension limits
+
+/dev_info_speed
+속도
+
+/dev_log
+Operation log:
+
+/dev_night
+밤
+
+/dev_night_hint
+Circulate between day and night time
+
+/dev_refill
+Refill
+
+/dev_refill_hint
+Repair, refuel current truck, instant start the engine
+
+/dev_reload
+Reload
+
+/dev_reload_fail
+Reload failed!
+
+/dev_reload_hint
+Attempt to reload current truck XML file
+
+/dev_spawn
+Spawn
+
+/dev_spawn_available
+사용 가능한 트럭:
+
+/dev_spawn_current
+Current trucks:
+
+/dev_spawn_help
+Select available truck to spawn, then click on terrain to choose 
+spawn location. Drag left mouse button to rotate spawn orientation.
+
+/dev_spawn_hint
+Spawn new trucks (including unpublished mods), 
+remove and switch between trucks
+
+/dev_spawn_truck
+Spawn truck
+
+/dev_tools
+Dev tools
+
+/dev_update
+Update
+
+/dev_update_hint
+Reload outdated textures, mesh materials and sounds
+
+/disable_vfetch_prompt
+Disable deformations?
+This option is a fallback for older videocards
+
+/done
+완료
+
+/dont_use_wheel
+비활성화
+
+/down
+Down
+
+/enable_anisotropic
+Anisotropic texture filtering
+
+/enable_fxaa
+FXAA 활성화
+
+/enable_geometry_deformations
+Enable geometry deformations
+
+/enable_motion_blur
+모션블러 활성화
+
+/enable_shadowmaps
+Enable Shadowmaps
+
+/enable_ssao
+Enable SSAO if supported
+
+/enter
+Enter
+
+/exit
+나가기
+
+/exit_confirm
+게임을 종료하겠습니까?
+
+/front_rear
+Front-rear camera
+
+/fxaa_hint
+Smoothen objects edges
+
+/game_cloaking_remove
+%s 
+have removed a cloaking!
+
+/game_connecting
+연결 중...
+
+/game_controls
+Game Controls
+
+/game_garage_unlocked
+%s 
+have delivered %d garage points!
+
+/game_mode
+모드:
+
+/game_objective_points
+%s 
+have delivered %d objective points!
+
+/gamepad_available
+게임패드 %d - 활성화
+
+/gamepad_hint
+Use mouse/keyboard for UI navigation
+
+/gamepad_not_connected
+게임패드 %d - 연결 되지 않음
+
+/games_searching
+Searching...
+
+/gearbox_clutch
+클러치
+
+/gearbox_gear_1
+1단
+
+/gearbox_gear_2
+2단
+
+/gearbox_gear_3
+3단
+
+/gearbox_gear_4
+4단
+
+/gearbox_gear_5
+5단
+
+/gearbox_gear_6
+6단
+
+/gearbox_gear_r
+Gear Reverse
+
+/grass_density
+Grass density
+
+/handbrake
+핸드 브레이크
+
+/head_light
+전조등
+
+/help
+도움말
+
+/honk
+Honk
+
+/hood_camera
+Hood camera
+
+/joy_axis_x
+Linear X
+
+/joy_axis_x_ang
+Angular X
+
+/joy_axis_y
+Linear Y
+
+/joy_axis_y_ang
+Angular Y
+
+/joy_axis_z
+Linear Z
+
+/joy_axis_z_ang
+Angular Z
+
+/joy_button
+Button %d
+
+/joy_slider_1
+Slider 1
+
+/joy_slider_2
+Slider 2
+
+/joystick_assign_hint
+Use joystick/wheel to assign
+
+/key
+Key
+
+/key_assign_hint
+Press a key to assign
+
+/key_reassign_primary
+[%s] is already used as '%s' primary key
+Unassign it?
+
+/key_reassign_secondary
+[%s] is already used as '%s' secondary key
+Unassign it?
+
+/keyboard
+키보드
+
+/last_game
+last joined game
+
+/left
+Left
+
+/left_ctrl
+Left Ctrl
+
+/left_joystick_left
+Left Joystick Left
+
+/left_joystick_right
+Left Joystick Right
+
+/left_shift
+왼쪽 쉬프트
+
+/left_trigger
+왼쪽 트리거
+
+/loading_loading
+Loading, please wait...
+
+/loading_ready
+스페이스바를 눌러 스킵
+
+/lobby_achievements
+도전과제 활성화
+
+/lobby_certified
+Certified mods
+
+/lobby_friends_only
+친구 전용
+
+/lobby_invite
+친구 초대
+
+/lobby_leader
+방장
+
+/lobby_leave
+로비에서 나가기
+
+/lobby_not_ready
+모든 플레이어가 준비되지 않아 게임을 시작할 수 없습니다!
+
+/lobby_start
+게임 시작
+
+/lobby_title
+Multiplayer Lobby
+
+/lobby_vote_to_start
+Vote to start
+
+/lock_diff
+Lock differential
+
+/lod_distance
+Level of detail distance
+
+/lod_hint
+Reduce geometry complexity in distance
+
+/main_menu
+메인 메뉴
+
+/main_menu_confirm
+메인 메뉴에서 나가겠습니까?
+
+/manual_gearbox
+Manual Gearbox with Clutch
+
+/menu
+메뉴
+
+/mod_downloading
+모드 다운로드중
+
+/mod_installed
+새로운 모드가 설치됨:
+
+/mod_name_certified
+(certified mod)
+
+/mod_name_uncertified
+(uncertified mod)
+
+/mod_preparing
+모드 다운로드 준비 중
+
+/mode_casual
+캐주얼
+
+/mode_hardcore
+하드코어
+
+/mods_available
+활성화 된 모드
+
+/mods_change_truck
+[변경]
+
+/mods_changed
+Could not continue - failed loading saved game
+A new version was downloaded for one of the mods used in game session
+
+/mods_install
+Install missing mods
+
+/mods_installed
+모드 설치 완료
+
+/mods_lobby_leader
+Only lobby leader can change Startup trucks.
+
+/mods_lobby_missing
+Some of the mods are missing - you will only be able to join the game after they are downloaded and installed.
+
+/mods_manage
+모드 관리
+
+/mods_missing
+[missing mod]
+
+/mods_no_multiplayer
+Can't start this game with uncertified mods!
+
+/cant_start_hint
+Disable this option is Multiplayer game settings
+
+/mods_no_truck
+[no truck]
+
+/mods_startup_trucks
+Startup trucks:
+
+/mods_title
+Mods
+
+/mods_warning
+Achievements disabled because uncertified mods are selected for this game!
+
+/multi_player
+Multi Player
+
+/multiplayer_achievements
+Play active achievements games only
+
+/multiplayer_certified
+Play with certified mods only
+
+/multiplayer_create_lobby
+Create lobby
+
+/multiplayer_games
+Available games and lobbies
+
+/multiplayer_games_refresh
+새로고침
+
+/multiplayer_join_game
+게임 참여
+
+/multiplayer_say
+Multiplayer say
+
+/multiplayer_title
+Play Multiplayer
+
+/navigate_mode
+Navigation map
+
+/new_game_confirm
+Start new game?
+
+/no
+No
+
+/no_available_mods
+No available mods found!
+
+/no_devices
+No devices detected!
+
+/no_games_found
+No games or lobbies found!
+
+/no_grass
+No grass
+
+/no_installed_mods
+No mods installed!
+
+/no_trucks_warning
+Choose at least one startup truck to start the game!
+
+/off
+Off
+
+/off_upper
+OFF
+
+/ok
+Ok
+
+/on
+On
+
+/on_upper
+ON
+
+/or
+or
+
+/particles_hint
+Low: hundreds of particles
+Medium: thousands of particles
+High: thousands of particles with shadowmaps
+
+/particles_quality
+Particles quality
+
+/play
+Play
+
+/player_notready
+Not ready
+
+/player_ready
+Ready
+
+/player_slot_available
+Player Slot Available
+
+/primary
+Primary
+
+/progress_save_hint
+You will be able to continue game
+
+/progress_saved
+Current game progress saved!
+
+/progress_warning
+Current game progress would be lost!
+
+/pull_upper
+PULL
+
+/remove
+Remove
+
+/resume
+Resume
+
+/right
+오른쪽
+
+/right_ctrl
+오른쪽 컨트롤
+
+/right_shift
+오른쪽 쉬프트
+
+/right_trigger
+오른쪽 트리거
+
+/save_time_played
+%.1f 시간을 플레이 함
+
+/screen_resolution
+Fullscreen resolution
+
+/screenshot_hud
+스크린샷에서 HUD를 보이게 함
+
+/secondary
+Secondary
+
+/settings
+Settings
+
+/settings_exit_prompt
+Settings were modified.
+Cancel without saving?
+
+/settings_high
+High
+
+/settings_high_hint
+GeForce 200 series/Radeon HD 4xxx and above
+
+/settings_low
+Low
+
+/settings_low_hint
+Intel GMA/GMA HD, GeForce 6 series/Radeon HD 2xxx or below
+
+/settings_medium
+Medium
+
+/settings_medium_hint
+GeForce 8-9 series, Radeon HD 2xxx-3xxx
+
+/settings_particles_highest
+Highest (with collisions)
+
+/settings_shaders_highest
+Highest (mud detalisation)
+
+/shaders_hint
+High: enable water refractions and caustics, terrain parallax
+
+/shaders_quality
+Shaders quality
+
+/single_player
+Single Player
+
+/singleplayer_map
+Choose single player map:
+
+/singleplayer_start
+Start new game
+
+/singleplayer_title
+Play Singleplayer
+
+/sound_level
+Sound Level
+
+/space
+Space
+
+/ssao_hint
+Additional artificial ambient shadows
+
+/statistics
+Statistics:
+
+/steam_authentication_failed
+Connection failure
+Multiplayer authentication failed
+
+/steam_connecting
+Connecting to steam...
+
+/steam_connecting_game
+Connecting to game
+
+/steam_connecting_lobby
+Connecting to lobby
+
+/steam_connecting_timeout
+, timeout in %d...
+
+/steam_connection_failed
+Connection failed
+
+/steam_connection_required
+Steam connection required!
+
+/steam_create_lobby_fail
+Failed to create lobby
+(lost connection to Steam back-end servers)
+
+/steam_creating_lobby
+Creating lobby...
+
+/steam_enter_lobby_fail
+Failed to enter lobby
+
+/steam_lobby_timeout
+Timed out connecting to lobby
+
+/steam_server_connection_failed
+Game server connection failure
+
+/steam_server_exited
+Game server has exited
+
+/steam_server_timeout
+Timed out connecting to game server
+
+/steering_wheel
+Wheel
+
+/trailer_camera
+Trailer camera
+
+/turn_left
+Turn left
+
+/turn_right
+Turn right
+
+/turn_wheels
+Turn wheels
+
+/unknown
+Unknown
+
+/up
+Up
+
+/use_forcefeedback
+Enable Force Feedback
+
+/vfetch_hint
+(use vertex texture fetch technology)
+
+/votes_to_kick
+%d votes to kick
+
+/wheel_note
+When steering wheel device is selected, vehicle wheels in game will autocenter.
+
+/wheel_range_inv
+Invert analog input
+
+/winch_pull
+Winch Pull
+
+/windowed
+Windowed
+
+/workshop
+Workshop
+
+/workshop_browse
+Browse Workshop
+
+/workshop_by_date
+by date
+
+/workshop_by_rank
+by rank
+
+/workshop_certified
+Certified only
+
+/workshop_open
+Open in Workshop
+
+/xbox_dpad_down
+Dpad Down
+
+/xbox_dpad_left
+Dpad Left
+
+/xbox_dpad_right
+Dpad Right
+
+/xbox_dpad_up
+Dpad Up
+
+/xbox_left_shoulder
+Left Shoulder
+
+/xbox_left_thumb
+Left Thumb
+
+/xbox_right_shoulder
+Right Shoulder
+
+/xbox_right_thumb
+Right Thumb
+
+/yes
+Yes
+
+/cant_continue
+Can't continue game session because it uses mods that are missing or being downloaded
